@@ -1,0 +1,5 @@
+[varnishcache_varnish5]
+baseurl = https://packagecloud.io/varnishcache/varnish5/el/7/$basearch
+enabled = 1
+gpgcheck = 0
+name = Varnish 5.x repository
